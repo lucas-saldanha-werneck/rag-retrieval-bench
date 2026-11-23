@@ -1,0 +1,28 @@
+{"q":"como cancelar minha assinatura","relevant":"d01"}
+{"q":"quero encerrar o plano","relevant":"d01"}
+{"q":"onde pego o boleto de novo","relevant":"d02"}
+{"q":"meu boleto venceu","relevant":"d02"}
+{"q":"fui cobrado duas vezes","relevant":"d03"}
+{"q":"esqueci a senha","relevant":"d04"}
+{"q":"não consigo entrar na conta, perdi o acesso","relevant":"d04"}
+{"q":"ativar verificação em duas etapas","relevant":"d05"}
+{"q":"como convidar um novo atendente para a equipe","relevant":"d06"}
+{"q":"o bot passa para um humano?","relevant":"d07"}
+{"q":"conectar whatsapp com qr code","relevant":"d08"}
+{"q":"o whatsapp desconectou sozinho","relevant":"d08"}
+{"q":"mensagem quando ninguém está trabalhando","relevant":"d09"}
+{"q":"exportar relatório de produtividade em csv","relevant":"d10"}
+{"q":"por quanto tempo guardam o histórico de conversas","relevant":"d11"}
+{"q":"ligar com o CRM","relevant":"d12"}
+{"q":"passar o cliente para outro setor","relevant":"d13"}
+{"q":"como classificar conversas por assunto","relevant":"d14"}
+{"q":"atalho para textos prontos","relevant":"d15"}
+{"q":"tamanho máximo de arquivo anexado","relevant":"d16"}
+{"q":"marcar consulta automaticamente","relevant":"d17"}
+{"q":"nota de satisfação do cliente depois do atendimento","relevant":"d18"}
+{"q":"trocar para um plano maior","relevant":"d19"}
+{"q":"quero apagar meus dados pessoais","relevant":"d20"}
+{"q":"quantos clientes estão esperando agora","relevant":"d21"}
+{"q":"o robô respondeu errado, como corrijo","relevant":"d22"}
+{"q":"enviar campanha para todos os contatos","relevant":"d23"}
+{"q":"o sistema está fora do ar?","relevant":"d24"}

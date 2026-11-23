@@ -1,0 +1,12 @@
+[project]
+name = "rag-retrieval-bench"
+version = "0.1.0"
+description = "Offline benchmark comparing keyword, n-gram vector and hybrid retrieval on a small FAQ set"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

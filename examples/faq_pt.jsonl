@@ -1,0 +1,24 @@
+{"id":"d01","text":"Para cancelar a assinatura, abra Configurações, Plano e clique em Cancelar plano. O acesso continua até o fim do ciclo já pago."}
+{"id":"d02","text":"A segunda via do boleto fica em Financeiro, Faturas. Boletos vencidos podem ser reemitidos com nova data por até 30 dias."}
+{"id":"d03","text":"Reembolso de pagamento duplicado: o valor volta ao cartão em até 10 dias úteis depois da análise do financeiro."}
+{"id":"d04","text":"Para redefinir a senha, use o link Esqueci minha senha na tela de login. O e-mail com o link vale por 1 hora."}
+{"id":"d05","text":"A autenticação em dois fatores usa um aplicativo gerador de códigos. Ative em Segurança, Verificação em duas etapas."}
+{"id":"d06","text":"Adicione novos atendentes em Equipe, Convidar. Cada convite é enviado por e-mail e expira em 7 dias."}
+{"id":"d07","text":"O chatbot responde sozinho às perguntas frequentes e transfere para uma pessoa quando não entende a mensagem."}
+{"id":"d08","text":"Para conectar o WhatsApp, escaneie o QR code em Canais, WhatsApp. A conexão cai se o celular ficar desligado por muito tempo."}
+{"id":"d09","text":"O horário de atendimento define quando as conversas entram na fila. Fora do horário, o cliente recebe a mensagem automática de ausência."}
+{"id":"d10","text":"Relatórios de produtividade mostram tempo médio de resposta, conversas por atendente e nota de satisfação. Exporte em CSV."}
+{"id":"d11","text":"As conversas ficam armazenadas por 12 meses. Depois desse prazo são apagadas de forma permanente."}
+{"id":"d12","text":"A integração com o CRM envia cada nova conversa como um contato. Configure a chave de API em Integrações."}
+{"id":"d13","text":"Para transferir uma conversa, clique em Transferir e escolha o atendente ou o setor de destino."}
+{"id":"d14","text":"Etiquetas organizam as conversas por assunto. Crie etiquetas em Configurações, Etiquetas e aplique durante o atendimento."}
+{"id":"d15","text":"Respostas rápidas são textos salvos que o atendente insere digitando a barra seguida do atalho."}
+{"id":"d16","text":"O limite de anexos é de 16 MB por arquivo. Vídeos maiores devem ser enviados por link."}
+{"id":"d17","text":"O agendamento automático oferece horários livres da agenda e confirma a consulta por mensagem, com lembrete um dia antes."}
+{"id":"d18","text":"A pesquisa de satisfação é enviada quando a conversa é encerrada. O cliente responde com uma nota de 1 a 5."}
+{"id":"d19","text":"Para mudar de plano, escolha o novo plano em Configurações, Plano. A diferença de valor é cobrada proporcionalmente."}
+{"id":"d20","text":"Os dados pessoais são tratados conforme a LGPD. Pedidos de exclusão de dados são atendidos em até 15 dias."}
+{"id":"d21","text":"O painel em tempo real mostra quantas conversas estão em espera e quais atendentes estão online."}
+{"id":"d22","text":"Se o chatbot errar uma resposta, edite o texto da base de conhecimento. A mudança vale na próxima mensagem."}
+{"id":"d23","text":"Mensagens em massa só podem ser enviadas para contatos que deram consentimento e usando modelos aprovados."}
+{"id":"d24","text":"Em caso de instabilidade, a página de status mostra os incidentes e o tempo estimado de normalização."}
